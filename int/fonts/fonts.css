@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'HelveticaNeueCyr-Roman';
+  src: url('HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.eot?#iefix') format('embedded-opentype'),  
+  url('HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.woff') format('woff'), 
+  url('HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.ttf')  format('truetype'), 
+  url('HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.svg#HelveticaNeueCyr-Roman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HelveticaNeueCyr-Bold';
+  src: url('HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.eot?#iefix') format('embedded-opentype'),
+  url('HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.woff') format('woff'),
+  url('HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.ttf')  format('truetype'),
+  url('HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.svg#HelveticaNeueCyr-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Calibri-Bold';
+  src: url('Calibri-Bold/Calibri-Bold.eot?#iefix') format('embedded-opentype'),  
+  url('Calibri-Bold/Calibri-Bold.woff') format('woff'), 
+  url('Calibri-Bold/Calibri-Bold.ttf')  format('truetype'), 
+  url('Calibri-Bold/Calibri-Bold.svg#Calibri-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HelveticaNeueCyr-Light';
+  src: url('HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.eot?#iefix') format('embedded-opentype'),  
+  url('HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.woff') format('woff'), 
+  url('HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.ttf')  format('truetype'), 
+  url('HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.svg#HelveticaNeueCyr-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Calibri-Light';
+  src: url('Calibri-Light/Calibri-Light.eot?#iefix') format('embedded-opentype'),  
+  url('Calibri-Light/Calibri-Light.woff') format('woff'), 
+  url('Calibri-Light/Calibri-Light.ttf')  format('truetype'), 
+  url('Calibri-Light/Calibri-Light.svg#Calibri-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

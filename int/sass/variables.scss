@@ -1,0 +1,19 @@
+$mainColor: #748ba6;
+$inverseMainColor: #fff;
+$lightColor: #cdcdcd;
+$lighterColor: lighten($lightColor, 14%);
+$darkColor: #3c3c3c;
+$linkColor: #2897da;
+$linkHoverColor: lighten($linkColor, 20%);
+
+$themeColor1: #c6216b;
+$themeColor2: #fedd67;
+$themeColor3: #34afed;
+
+$noBg: rgba(0,0,0,0);
+
+$mainFont: "HelveticaNeueCyr-Roman";
+$lightFont: "HelveticaNeueCyr-Light";
+$boldFont: "HelveticaNeueCyr-Bold";
+$titleFont: "Calibri-Bold";
+$titleLightFont: "Calibri-Light";
